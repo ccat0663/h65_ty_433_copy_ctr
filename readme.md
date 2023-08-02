@@ -6,27 +6,29 @@
 
 #### 开源连接
 
-- [硬件开源连接](https://oshwhub.com/ccat0663/ty_433_wifi_ble)
+- 
 
 #### 代码工程配置
 
-- 在[ty_dev_config.h](https://github.com/ccat0663/h66_ty_433_ctr/blob/master/software/ST17H66_SDK_3.1.1.2-ty/example/Tuya_IOT/simpleBlePeripheral/source/ty_dev_config.h)文件中配置涂鸦平台生成的参数，选择使能的功能
+- 在[ty_dev_config.h](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/software/ST17H66_SDK_3.1.1.2-ty/example/Tuya_IOT/simpleBlePeripheral/source/ty_dev_config.h)文件中配置涂鸦平台生成的参数，选择使能的功能
 
 #### 涂鸦平台配置
 
 - 数据点配置
 
-
+![数据点配置](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/file/%E6%B6%82%E9%B8%A6%E6%95%B0%E6%8D%AE%E7%82%B9%E9%85%8D%E7%BD%AE.png)
 
 - studio面板配置
 
-
+![面板配置](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/file/%E6%B6%82%E9%B8%A6studio%E9%9D%A2%E6%9D%BF.png)
 
 #### 硬件
 
+![实物图](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/file/%E5%AE%9E%E7%89%A9%E5%9B%BE1.png)
 
+![3d图](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/file/3d%E5%9B%BE.png)
 
-
+![外壳](https://github.com/ccat0663/h65_ty_433_copy_ctr/blob/master/file/%E5%A4%96%E5%A3%B3.png)
 
 #### 功耗
 
