@@ -6,7 +6,7 @@
 
 #### 开源连接
 
-- 
+- [硬件开源连接](https://oshwhub.com/ccat0663/ty_433_copy_ctr)
 
 #### 代码工程配置
 
